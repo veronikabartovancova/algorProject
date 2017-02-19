@@ -1,2 +1,2 @@
 #Kolektivní projekt ALGOR
-Jaruška je v týmu
+New user
