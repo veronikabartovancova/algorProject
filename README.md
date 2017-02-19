@@ -1,2 +1,2 @@
 #Kolektivní projekt ALGOR
-New user
+New user added
