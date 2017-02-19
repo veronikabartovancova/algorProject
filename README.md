@@ -1,1 +1,1 @@
-#Kolektivní projekt ALGOR
+#KolektivnÃ­ projekt ALGOR
