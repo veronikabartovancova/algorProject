@@ -1,2 +1,3 @@
-#Kolektivní projekt ALGOR
+﻿#Kolektivní projekt ALGOR
 comming soon.
+Veronika
